@@ -4,8 +4,8 @@
 
 ## 🚀 Tech Stack
 - HTML / CSS
-- JavaScript
-- Python
+- JavaScript (learning)
+- Python (learning+)
 - Currently learning: **Next.js** and modern web technologies
 
 ## 🧠 About me
