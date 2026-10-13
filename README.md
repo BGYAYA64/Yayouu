@@ -23,3 +23,4 @@ You can find my projects below, showing my progression and learning process.
 
 ## 📫 Contact
 - Discord: Yayouu
+- - Mail : yayouu@yastral.fr
